@@ -2,5 +2,7 @@
 
 
 ### INTRO
-  This web app is created only for practice purpose where you can test your frontend skills
+  This web app is created only for practice purpose where you can test your frontend & backend coding skills.
+  
+
   
